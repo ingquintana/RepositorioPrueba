@@ -1,0 +1,6 @@
+C:\Users\ameli\OneDrive\Documentos\Visual Studio 2017\Projects\RepositorioPrueba\RepositorioPrueba\RepositorioPrueba\bin\Debug\RepositorioPrueba.exe.config
+C:\Users\ameli\OneDrive\Documentos\Visual Studio 2017\Projects\RepositorioPrueba\RepositorioPrueba\RepositorioPrueba\bin\Debug\RepositorioPrueba.exe
+C:\Users\ameli\OneDrive\Documentos\Visual Studio 2017\Projects\RepositorioPrueba\RepositorioPrueba\RepositorioPrueba\bin\Debug\RepositorioPrueba.pdb
+C:\Users\ameli\OneDrive\Documentos\Visual Studio 2017\Projects\RepositorioPrueba\RepositorioPrueba\RepositorioPrueba\obj\Debug\RepositorioPrueba.csprojResolveAssemblyReference.cache
+C:\Users\ameli\OneDrive\Documentos\Visual Studio 2017\Projects\RepositorioPrueba\RepositorioPrueba\RepositorioPrueba\obj\Debug\RepositorioPrueba.exe
+C:\Users\ameli\OneDrive\Documentos\Visual Studio 2017\Projects\RepositorioPrueba\RepositorioPrueba\RepositorioPrueba\obj\Debug\RepositorioPrueba.pdb
